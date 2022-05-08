@@ -1,4 +1,4 @@
-<h1>How to setting database</h1>
+<h1>How to setting this app</h1>
 <p>1. Install PostgreSQL</p>
 <p>1.1. Create user/password like postgres/postgres (for example)</p>
 <p>2. Start server at http://localhost:7777</p>
