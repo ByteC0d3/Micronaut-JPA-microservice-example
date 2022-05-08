@@ -4,3 +4,4 @@
 <p>2. Start server at <b>http://localhost:7777</b></p>
 <p>3. Create database with name <b>my_sample_database</b></p>
 <p>4. <b>gradle</b> run</p>
+<p>You can see settings at <a href="https://github.com/ByteC0d3/Micronaut-JPA-microservice-example/blob/main/src/main/resources/application.yml">here</a>.</p>
